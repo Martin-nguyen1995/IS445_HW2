@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    border-bottom: 3px solid #00ff00;
+    width:50%;
+    margin: 0 auto;
+}
+
+img {
+    height:350px;
+    width:500px;
+}
+
+.important{
+    font-weight: bold;
+    text-decoration:underline;
+    font-style: italic;
+}
